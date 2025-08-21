@@ -15,11 +15,11 @@
   <a href="https://github.com/akshat-11004">
     <img src="https://img.shields.io/badge/GitHub-@akshat--11004-181717?logo=github&style=for-the-badge" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/akshat-kadia/">
+  <a href="https://www.linkedin.com/in/akshat-11004/">
     <img src="https://img.shields.io/badge/LinkedIn-Akshat%20Kadia-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="akshatkadia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your.email%40example.com-EA4335?logo=gmail&style=for-the-badge" alt="Email"/>
+  <a href="akshat-11004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akshat-11004@gmail.com-EA4335?logo=gmail&style=for-the-badge" alt="Email"/>
   </a>
 </p>
 
@@ -59,15 +59,17 @@
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
 
 </p>
+
 ---
 
-### 📊 GitHub Dashboard
+### 📊 GitHub Dashboard  
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-11004" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat-11004&show_icons=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-11004&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshat-11004&show_icons=true&theme=tokyonight&rank_icon=github" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-11004&layout=compact" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-11004&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
