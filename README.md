@@ -2,13 +2,12 @@
 
 <!-- Animated headline -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
-
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Akshat+Kadia" alt="Typing SVG" /> <img src="./assets/wave.gif" width="80" />
 </p>
 
 <!-- Hero GIF -->
 <p align="center">
-  <img alt="coding" style="border-radius:20px;" src="./assets/coding.gif" width="600"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 <!-- Social links -->
@@ -19,7 +18,7 @@
   <a href="https://www.linkedin.com/in/akshat-kadia/">
     <img src="https://img.shields.io/badge/LinkedIn-Akshat%20Kadia-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="akshatkadia@gmail.com">
     <img src="https://img.shields.io/badge/Email-your.email%40example.com-EA4335?logo=gmail&style=for-the-badge" alt="Email"/>
   </a>
 </p>
@@ -41,6 +40,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 
   <!-- ML / DL -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
@@ -57,9 +57,7 @@
   <!-- Web / Tools -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+
 </p>
 ---
 
@@ -80,9 +78,5 @@
   <img src="https://raw.githubusercontent.com/akshat-11004/akshat-11004/output/snake.svg" alt="snake animation"/>
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-11004&theme=tokyo-night" alt="Activity Graph"/>
-</p>
 
 ---
