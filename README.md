@@ -18,8 +18,8 @@
   <a href="https://www.linkedin.com/in/akshat-11004/">
     <img src="https://img.shields.io/badge/LinkedIn-Akshat%20Kadia-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="akshat-11004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akshat-11004@gmail.com-EA4335?logo=gmail&style=for-the-badge" alt="Email"/>
+   <a href="mailto:akshatkadia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akshatkadia60%40gmail.com-EA4335?logo=gmail&style=for-the-badge" alt="Email"/>
   </a>
 </p>
 
